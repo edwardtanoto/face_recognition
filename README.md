@@ -2,7 +2,9 @@
 
 ## Find Faces
 
-[![Face Match]]({https://edwardtanoto.github.io/facematch.mov} "Face Match")
+![Find Faces][findfaces]
+
+[findfaces]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/findface.png
 
 ## Identify
 
