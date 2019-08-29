@@ -40,5 +40,14 @@
 3. If you encounter an error regarding cmake, you have to install it as well, otherwise move to the next step
 4. `pip install face_recognition` to install the library
 
+## Additional images of dlib installation
+
+![dlib][dlib]
+
+[dlib]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/dlib.jpg
+
+![cmake][cmake]
+
+[cmake]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/cmake.jpg
 
 
