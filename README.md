@@ -44,10 +44,10 @@
 
 ![dlib][dlib]
 
-[dlib]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/dlib1.jpg
+[dlib]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/dlib.png
 
 ![cmake][cmake]
 
-[cmake]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/cmake.jpg
+[cmake]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/cmake.png
 
 
