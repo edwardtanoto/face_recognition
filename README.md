@@ -11,7 +11,7 @@
 ![Identify-1][identify-1]
 
 [identify-1]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/identify-1.png
----
+
 ![Identify-2][identify-2]
 
 [identify-2]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/identify-2.png
@@ -36,7 +36,7 @@
 ## How to use it
 
 1. Download the folder
-2. Install dlib, you can follow the instruction [![here](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)
+2. Install dlib, you can follow the instruction [dlib](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf "here")
 3. If you encounter an error regarding cmake, you have to install it as well, otherwise move to the next step
 4. `pip install face_recognition` to install the library
 
