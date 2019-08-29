@@ -44,7 +44,7 @@
 
 ![dlib][dlib]
 
-[dlib]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/dlib.jpg
+[dlib]: https://github.com/edwardtanoto/face_recognition/blob/master/img_results/dlib1.jpg
 
 ![cmake][cmake]
 
